@@ -4,7 +4,7 @@
 Experimenten voor een Conversational Interface. De toekomstige structuur is als volgt:
 
 # structuur
-- Bot.je index en overzichtspagina
+- Bot.je index en onstluitingspagina. Showcase.
 - Blog. Mijn research Blog (project)
 - Lectures. Lesmateriaal en documentatie (project)
 - project 1 (project)
