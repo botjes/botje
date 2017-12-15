@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+## Bot.je. Experimental conversations with agents and assistants
+
+# Leeswijzer
+Mijn master design gaat over het ontwerpen van een Conversational Interface.  Als weinig weet van het onderwerp, lees dan eerst [Conversational Interfaces voor beginners]. Heb je een lezing van me bijgewoond, een workshop gedaan of een les gevolgd, dan kun je onder lectures de presentaties en documentatie terugvinden. Voor referentie kun je terecht bij een voortdurend uitdijende verzameling artikelen, boeken, video’s en andere bronnen over het onderwerp.
+
+# Conversational Design, Agents en Agency
+In het ontwerpen van gesprekken vind je mijn onderzoek naar ontwerp- en lesmethodes voor het automatisch gesprek. Agents en Agency gaat over het ontwerp van van de virtuele gesprekspartner en het design van agency.
+
+In nieuwe interactie beschrijf ik de verschijningsvormen van de Conversational Interface, de relevantie ervan voor User Experience Design en de plaats in mijn ontwerppraktijk. De [bouwstenen van Conversational Interface](https://medium.com/swlh/conversational-ui-principles-complete-process-of-designing-a-website-chatbot-d0c2a5fee376) benoem ik in taal als interface. In het ontwerpen van gesprekken vind je mijn onderzoek naar ontwerp- en lesmethodes voor het automatisch gesprek. Agents en Agency gaat over het ontwerp van van de virtuele gesprekspartner en het design van agency.
+
+
 
 You can use the [editor on GitHub](https://github.com/orlixfelson/botje/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
