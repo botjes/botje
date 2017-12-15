@@ -1,7 +1,7 @@
 ## Bot.je. Experimental conversations with agents and assistants
 
 # Leeswijzer
-Mijn master design gaat over het ontwerpen van een Conversational Interface.  Als weinig weet van het onderwerp, lees dan eerst [Conversational Interfaces voor beginners]. Heb je een lezing van me bijgewoond, een workshop gedaan of een les gevolgd, dan kun je onder lectures de presentaties en documentatie terugvinden. Voor referentie kun je terecht bij een voortdurend uitdijende verzameling artikelen, boeken, video’s en andere bronnen over het onderwerp.
+Experimenten voor een Conversational Interface.  Als weinig weet van het onderwerp, lees dan eerst [Conversational Interfaces voor beginners]. Heb je een lezing van me bijgewoond, een workshop gedaan of een les gevolgd, dan kun je onder lectures de presentaties en documentatie terugvinden. Voor referentie kun je terecht bij een voortdurend uitdijende verzameling artikelen, boeken, video’s en andere bronnen over het onderwerp.
 
 # Conversational Design, Agents en Agency
 In het ontwerpen van gesprekken vind je mijn onderzoek naar ontwerp- en lesmethodes voor het automatisch gesprek. Agents en Agency gaat over het ontwerp van van de virtuele gesprekspartner en het design van agency.
