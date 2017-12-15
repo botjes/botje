@@ -1,14 +1,45 @@
 ## Bot.je. Experimental conversations with agents and assistants
 
 # Leeswijzer
-Experimenten voor een Conversational Interface.  Als weinig weet van het onderwerp, lees dan eerst [Conversational Interfaces voor beginners]. Heb je een lezing van me bijgewoond, een workshop gedaan of een les gevolgd, dan kun je onder lectures de presentaties en documentatie terugvinden. Voor referentie kun je terecht bij een voortdurend uitdijende verzameling artikelen, boeken, video’s en andere bronnen over het onderwerp.
+Experimenten voor een Conversational Interface. De toekomstige structuur is als volgt
+
+# structuur
+- Bot.je index en overzichtspagina
+- Blog. Mijn research Blog (project)
+- Lectures. Lesmateriaal en documentatie (project)
+- project 1 (project)
+- project 2 (project)
+- project 3( project)
+- ... (more projects)
+
 
 # Conversational Design, Agents en Agency
 In het ontwerpen van gesprekken vind je mijn onderzoek naar ontwerp- en lesmethodes voor het automatisch gesprek. Agents en Agency gaat over het ontwerp van van de virtuele gesprekspartner en het design van agency.
 
-In nieuwe interactie beschrijf ik de verschijningsvormen van de Conversational Interface, de relevantie ervan voor User Experience Design en de plaats in mijn ontwerppraktijk. De [bouwstenen van Conversational Interface](https://medium.com/swlh/conversational-ui-principles-complete-process-of-designing-a-website-chatbot-d0c2a5fee376) benoem ik in taal als interface. In het ontwerpen van gesprekken vind je mijn onderzoek naar ontwerp- en lesmethodes voor het automatisch gesprek. Agents en Agency gaat over het ontwerp van van de virtuele gesprekspartner en het design van agency.
+In nieuwe interactie beschrijf ik de verschijningsvormen van de Conversational Interface, de relevantie ervan voor User Experience Design en de plaats in mijn ontwerppraktijk. De [bouwstenen van Conversational Interface](https://medium.com/swlh/conversational-ui-principles-complete-process-of-designing-a-website-chatbot-d0c2a5fee376) benoem ik in taal als interface. 
+
+Het ontwerp van van de virtuele gesprekspartner, de _agent_ en het design van _agency_.
+
+# doelen
+- [ ] ovette voorbeelden
+- [ ] ontwerpmethodes voor design van Agents en Agency
+- [ ] ontwerpmethodes voor het automatisch gesprek.
+- [ ] lesmethodes voor het automatisch gesprek.
+
+# onderzoekstrails
+
+- [ ] nieuwe toepassingen van taal als interface
+- [ ] Onderzoek naar (gesproken) taal als interface. 
+- [ ] Onderzoek naar chatbots en grenzen van de chat-interface.
+- [ ] Onderzoek naar visueel ondersteunen van VUI
+- [ ] ontwerp- en lesmethodes voor het automatisch gesprek
 
 
+
+
+
+
+~~
 
 You can use the [editor on GitHub](https://github.com/orlixfelson/botje/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -45,3 +76,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+~~
