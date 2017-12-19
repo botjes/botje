@@ -1,6 +1,6 @@
 # Bot.je. Experimental conversations with agents and assistants
 
-# Design research. _Agents_ en het design van _agency_ en het ontwerp van de virtuele gesprekspartner 
+## Design research. _Agents_ en het design van _agency_ en het ontwerp van de virtuele gesprekspartner 
 
 # doelen
 - show & tell: conversation pieces, voorbeelden, demo's
