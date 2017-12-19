@@ -5,11 +5,11 @@ Experimenten voor een Conversational Interface. De toekomstige structuur is als 
 
 ## structuur
 - Bot.je index en onstluitingspagina. Showcase.
-- Blog. Mijn research Blog (projectomgeving)
-- **Lectures**. Lesmateriaal en documentatie (projectomgeving)
-- **project 1 • stampbot** Mobiele web interface, FB Messenger. Franse woordjes. Demo voor een chatbot die middelbare scholieren vreemde woordjes overhoort. ML voor individuele resultaten past zo nodig toetsing aan. Onderdeel van de test is een CMS waarmee van taal of methode gewisseld kan worden. *Projectomgeving [stampbot](https://github.com/orlixfelson/stampbot)*
-- **project 2 • MvP VCA chatbot** Chatbot met LMRA. Tekst, foto's en locatie. Bewaart + verstuurd samenvatting. Mobiele web interface (en/of Telegram, Messenger als foto en locatie niet kunnen worden getoond). ML voor individuele resultaten past zo nodig vragen aan. Onderdeel van de test is een CMS waarmee van onderwerp / taal gewisseld kan worden. *Projectomgeving [HSE-bot](https://github.com/orlixfelson/HSE-bot)*
-- **project 3 • Voice bot Web interface** Ingesproken tekst geeft schermtekst en visuele response. ML voor match input/ output. Zie [my mistery animal](https://mysteryanimal.withgoogle.com)
+- **Research Blog** projectomgeing *[bot.je/blog](https://github.com/orlixfelson/blog)*
+- **Lectures**. Lesmateriaal en documentatie *[bot.je/lectures](https://github.com/orlixfelson/lectures)*
+- **project 1 • stampbot** Mobiele web interface, FB Messenger. Franse woordjes. Demo voor een chatbot die middelbare scholieren vreemde woordjes overhoort. ML voor individuele resultaten past zo nodig toetsing aan. Onderdeel van de test is een CMS waarmee van taal of methode gewisseld kan worden. *Projectomgeving [bot.je/stampbot](https://github.com/orlixfelson/stampbot)*
+- **project 2 • MvP VCA chatbot** Chatbot met LMRA. Tekst, foto's en locatie. Bewaart + verstuurd samenvatting. Mobiele web interface (en/of Telegram, Messenger als foto en locatie niet kunnen worden getoond). ML voor individuele resultaten past zo nodig vragen aan. Onderdeel van de test is een CMS waarmee van onderwerp / taal gewisseld kan worden. *Projectomgeving [bot.je/HSE-bot](https://github.com/orlixfelson/HSE-bot)*
+- **project 3 • Voice Bot Web Interface** Ingesproken tekst geeft schermtekst en visuele response. ML voor match input/ output. Zie [my mistery animal](https://mysteryanimal.withgoogle.com) voor een voorbeeld *Projectomgeving  https://github.com/orlixfelson/visual-voice*
 - ... (more projects)
 
 
