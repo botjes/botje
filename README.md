@@ -1,19 +1,19 @@
 # Bot.je. Experimental conversations with agents and assistants
 
-## Leeswijzer
+# Leeswijzer
 Experimenten voor een Conversational Interface. De toekomstige structuur is als volgt:
 
-# structuur
+## structuur
 - Bot.je index en onstluitingspagina. Showcase.
-- Blog. Mijn research Blog (project)
-- Lectures. Lesmateriaal en documentatie (project)
-- project 1 • Mobiele web interface, FB Messenger. Franse woordjes. Demo voor een chatbot die middelbare scholieren vreemde woordjes overhoort. ML voor individuele resultaten past zo nodig toetsing aan. Onderdeel van de test is een CMS waarmee van taal of methode gewisseld kan worden.
-- project 2 • MvP VCA chatbot. Chatbot met LMRA. Tekst, foto's en locatie. Bewaart + verstuurd samenvatting. Mobiele web interface (en/of Telegram, Messenger als foto en locatie niet kunnen worden getoond). ML voor individuele resultaten past zo nodig vragen aan. Onderdeel van de test is een CMS waarmee van onderwerp / taal gewisseld kan worden. 
-- project 3 • Browser text / voice bot. Ingevoerde tekst geeft tekst én visuele response. ML voor onthouden van  
+- Blog. Mijn research Blog (projectomgeving)
+- Lectures. Lesmateriaal en documentatie (projectomgeving)
+- project 1 • Mobiele web interface, FB Messenger. Franse woordjes. Demo voor een chatbot die middelbare scholieren vreemde woordjes overhoort. ML voor individuele resultaten past zo nodig toetsing aan. Onderdeel van de test is een CMS waarmee van taal of methode gewisseld kan worden. (projectomgeving)
+- project 2 • MvP VCA chatbot. Chatbot met LMRA. Tekst, foto's en locatie. Bewaart + verstuurd samenvatting. Mobiele web interface (en/of Telegram, Messenger als foto en locatie niet kunnen worden getoond). ML voor individuele resultaten past zo nodig vragen aan. Onderdeel van de test is een CMS waarmee van onderwerp / taal gewisseld kan worden. (projectomgeving)
+- project 3 • Web interface. Voice bot. Ingesproken tekst geeft schermtekst en visuele response. ML voor match input/ output. 
 - ... (more projects)
 
 
-## Design research. _Agents_ en het design van _agency_ en het ontwerp van de virtuele gesprekspartner 
+# Design research. _Agents_ en het design van _agency_ en het ontwerp van de virtuele gesprekspartner 
 
 # doelen
 - show & tell: conversation pieces, voorbeelden, demo's
