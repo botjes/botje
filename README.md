@@ -7,7 +7,7 @@ Experimenten voor een Conversational Interface. De toekomstige structuur is als 
 - Bot.je index en onstluitingspagina. Showcase.
 - Blog. Mijn research Blog (projectomgeving)
 - Lectures. Lesmateriaal en documentatie (projectomgeving)
-- project 1 • Mobiele web interface, FB Messenger. Franse woordjes. Demo voor een chatbot die middelbare scholieren vreemde woordjes overhoort. ML voor individuele resultaten past zo nodig toetsing aan. Onderdeel van de test is een CMS waarmee van taal of methode gewisseld kan worden. (projectomgeving) (stampbot)https://github.com/orlixfelson/stampbot
+- project 1 • Mobiele web interface, FB Messenger. Franse woordjes. Demo voor een chatbot die middelbare scholieren vreemde woordjes overhoort. ML voor individuele resultaten past zo nodig toetsing aan. Onderdeel van de test is een CMS waarmee van taal of methode gewisseld kan worden. (projectomgeving) (stampbot https://github.com/orlixfelson/stampbot)
 - project 2 • MvP VCA chatbot. Chatbot met LMRA. Tekst, foto's en locatie. Bewaart + verstuurd samenvatting. Mobiele web interface (en/of Telegram, Messenger als foto en locatie niet kunnen worden getoond). ML voor individuele resultaten past zo nodig vragen aan. Onderdeel van de test is een CMS waarmee van onderwerp / taal gewisseld kan worden. (projectomgeving)
 - project 3 • Web interface. Voice bot. Ingesproken tekst geeft schermtekst en visuele response. ML voor match input/ output. 
 - ... (more projects)
