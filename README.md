@@ -7,9 +7,9 @@ Experimenten voor een Conversational Interface. De toekomstige structuur is als 
 - Bot.je index en onstluitingspagina. Showcase.
 - Blog. Mijn research Blog (project)
 - Lectures. Lesmateriaal en documentatie (project)
-- project 1 (project)
-- project 2 (project)
-- project 3( project)
+- project 1 • Franse woordjes. Demo voor een chatbot die middelbare scholieren vreemde woordjes overhoort. ML voor individuele resultaten past zo nodig toetsing aan. Onderdeel van de test is een CMS waarmee van taal of methode gewisseld kan worden.
+- project 2 • VCA chatbot. Chatbot met LMRA, Logboek en Incidenten. Naast tekst ook Foto's en Locatie. Maakt + verstuurd samenvatting. Mobiele web interface (en/of Telegram, Messenger als foto en locatie niet kunnen weorden getoond). ML voor individuele resultaten past zo nodig toetsing aan. Onderdeel van de test is een CMS waarmee van taal gewisseld kan worden.
+- project 3 • Browser text / voice bot. 
 - ... (more projects)
 
 
