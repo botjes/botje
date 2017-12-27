@@ -5,7 +5,7 @@
 Experimenten voor een Conversational Interface. De toekomstige structuur is als volgt:
 
 ## structuur
-- **Bot.je** index en onstluitingspagina. Ontsluiting van alle proijecten.
+- **Bot.je** index en onstluitingspagina. Ontsluiting van alle projecten.
 - **Research Blog** WDKA blog. [https://github.com/botjes/blog](https://github.com/botjes/blog)
 - **Lectures**. Lesmateriaal en documentatie [https://github.com/botjes/lectures](https://github.com/botjes/lectures)
 - **project 1 • stampbot** Mobiele web interface, FB Messenger. Franse woordjes. Demo voor een chatbot die middelbare scholieren vreemde woordjes overhoort. ML voor individuele resultaten past zo nodig toetsing aan. Onderdeel van de test is een CMS waarmee van taal of methode gewisseld kan worden. [https://github.com/botjes/stampbot](https://github.com/orlixfelson/stampbot)
