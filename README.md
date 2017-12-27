@@ -6,11 +6,11 @@ Experimenten voor een Conversational Interface. De toekomstige structuur is als 
 
 ## structuur
 - **Bot.je** index en onstluitingspagina. Ontsluiting van alle proijecten.
-- **Research Blog** WDKA blog. [https://github.com/orlixfelson/blog](https://github.com/orlixfelson/blog)
-- **Lectures**. Lesmateriaal en documentatie [https://github.com/orlixfelson/lectures](https://github.com/orlixfelson/lectures)
-- **project 1 • stampbot** Mobiele web interface, FB Messenger. Franse woordjes. Demo voor een chatbot die middelbare scholieren vreemde woordjes overhoort. ML voor individuele resultaten past zo nodig toetsing aan. Onderdeel van de test is een CMS waarmee van taal of methode gewisseld kan worden. [https://github.com/orlixfelson/stampbot](https://github.com/orlixfelson/stampbot)
-- **project 2 • MvP VCA chatbot** Chatbot met LMRA. Het ontwikkelen van de eerder voor andsafety gemaakte HSE bot tot een stabiele chat applicatie. Dit onderzoek heeft twee belangrijke onderdelen: *bewaren van user input* voor Machine Learning, en *content management* waarmee ik de content kan wijzigen, of vervangen door een andere taal. [https://github.com/orlixfelson/HSE-bot](https://github.com/orlixfelson/HSE-bot)
-- **project 3 • Voice Bot Web Interface** Ingesproken tekst geeft schermtekst en visuele response. ML voor match input/ output. Zie [my mistery animal](https://mysteryanimal.withgoogle.com) voor een voorbeeld. [https://github.com/orlixfelson/visual-voice](https://github.com/orlixfelson/visual-voice)
+- **Research Blog** WDKA blog. [https://github.com/botjes/blog](https://github.com/botjes/blog)
+- **Lectures**. Lesmateriaal en documentatie [https://github.com/botjes/lectures](https://github.com/botjes/lectures)
+- **project 1 • stampbot** Mobiele web interface, FB Messenger. Franse woordjes. Demo voor een chatbot die middelbare scholieren vreemde woordjes overhoort. ML voor individuele resultaten past zo nodig toetsing aan. Onderdeel van de test is een CMS waarmee van taal of methode gewisseld kan worden. [https://github.com/botjes/stampbot](https://github.com/orlixfelson/stampbot)
+- **project 2 • MvP VCA chatbot** Chatbot met LMRA. Het ontwikkelen van de eerder voor andsafety gemaakte HSE bot tot een stabiele chat applicatie. Dit onderzoek heeft twee belangrijke onderdelen: *bewaren van user input* voor Machine Learning, en *content management* waarmee ik de content kan wijzigen, of vervangen door een andere taal. [https://github.com/botjes/HSE-bot](https://github.com/orlixfelson/HSE-bot)
+- **project 3 • Voice Bot Web Interface** Ingesproken tekst geeft schermtekst en visuele response. ML voor match input/ output. Zie [my mistery animal](https://mysteryanimal.withgoogle.com) voor een voorbeeld. [https://github.com/botjes/visual-voice](https://github.com/botjes/visual-voice)
 - **project 4 • *The Teacher* Voice Interface** voor amazon echo. Onderzoek naar koppeling Echo aan dialogflow. 
 - ... (more projects)
 
